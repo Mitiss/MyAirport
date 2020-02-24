@@ -1,0 +1,11 @@
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport\bin\Debug\netcoreapp3.1\MyAirport.exe
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport\bin\Debug\netcoreapp3.1\MyAirport.deps.json
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport\bin\Debug\netcoreapp3.1\MyAirport.runtimeconfig.json
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport\bin\Debug\netcoreapp3.1\MyAirport.runtimeconfig.dev.json
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport\bin\Debug\netcoreapp3.1\MyAirport.dll
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport\bin\Debug\netcoreapp3.1\MyAirport.pdb
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport\obj\Debug\netcoreapp3.1\MyAirport.csprojAssemblyReference.cache
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport\obj\Debug\netcoreapp3.1\MyAirport.AssemblyInfoInputs.cache
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport\obj\Debug\netcoreapp3.1\MyAirport.AssemblyInfo.cs
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport\obj\Debug\netcoreapp3.1\MyAirport.dll
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport\obj\Debug\netcoreapp3.1\MyAirport.pdb
