@@ -1,0 +1,8 @@
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport.EF\bin\Debug\netcoreapp3.1\MyAirport.EF.deps.json
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport.EF\bin\Debug\netcoreapp3.1\MyAirport.EF.dll
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport.EF\bin\Debug\netcoreapp3.1\MyAirport.EF.pdb
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport.EF\obj\Debug\netcoreapp3.1\MyAirport.EF.csprojAssemblyReference.cache
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport.EF\obj\Debug\netcoreapp3.1\MyAirport.EF.AssemblyInfoInputs.cache
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport.EF\obj\Debug\netcoreapp3.1\MyAirport.EF.AssemblyInfo.cs
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport.EF\obj\Debug\netcoreapp3.1\MyAirport.EF.dll
+C:\Users\Steph\Documents\GitHub\C#\TP2_MyAirport\MyAirport\MyAirport.EF\obj\Debug\netcoreapp3.1\MyAirport.EF.pdb
